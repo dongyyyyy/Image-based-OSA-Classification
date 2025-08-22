@@ -52,7 +52,7 @@ class AHI_classification_folder(object):
                 A.Rotate(limit=args.rotate_degree,p=0.8), 
                 A.CoarseDropout(always_apply=False, p=args.CoarseDropout_prob, max_holes=args.CoarseDropout_max_holes, max_height=args.CoarseDropout_max_height,
                                 max_width=args.CoarseDropout_max_width, min_holes=args.CoarseDropout_min_holes, min_height=args.CoarseDropout_min_height, min_width=args.CoarseDropout_min_width),
-                A.ColorJitter(brightness=(0,0.2), contrast=(0,0.2), saturation=(0,0.2), hue=(0,0.2),p=0.8), 
+                A.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.2, hue=0.2,p=0.8), 
                 A.Normalize(mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225)), 
                 ToTensorV2(),
             ]
