@@ -35,9 +35,9 @@ sh shell_files/train/benchmark/train_single_view_image.sh
 sh shell_files/train/benchmark/train_attention_mutli_view_image_three.sh
 ```
 * In the shell file, you have to insert "model weight path" to load pretrained model weight parameter that is trained using 'single-view' image.
-\section{Project Structure}
-The following directory tree illustrates the organization of the repository:
-\begin{verbatim}
+
+## 📂 Project Structure
+```text
 .
 ├── config/               # config files directory (argparse)
 ├── model/             # Backbone architectures (ResNet, EfficientNet, ViT, Swin, multi-view attention)
@@ -45,4 +45,4 @@ The following directory tree illustrates the organization of the repository:
 ├── shell_files            # shell files to train the model
 ├── train         # Train the model
 └── test    # Verify the model
-\end{verbatim}
+```
