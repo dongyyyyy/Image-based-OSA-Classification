@@ -24,3 +24,6 @@ cd Image-based-OSA-Classification
 
 # Install dependencies
 pip install -r requirements.txt
+
+```bash
+sh shell_files/train/benchmark/train_single_view_image.sh
