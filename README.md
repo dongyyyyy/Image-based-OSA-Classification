@@ -39,10 +39,10 @@ sh shell_files/train/benchmark/train_attention_mutli_view_image_three.sh
 ## 📂 Project Structure
 ```text
 .
-├── config/               # config files directory (argparse)
+├── config/            # config files directory (argparse)
 ├── model/             # Backbone architectures (ResNet, EfficientNet, ViT, Swin, multi-view attention)
-├── utils/              # Data augmentation, dataloader and utility functions
-├── shell_files            # shell files to train the model
-├── train         # Train the model
-└── test    # Verify the model
+├── utils/             # Data augmentation, dataloader and utility functions
+├── shell_files        # shell files to train the model
+├── train              # Train the model
+└── test               # Verify the model
 ```
