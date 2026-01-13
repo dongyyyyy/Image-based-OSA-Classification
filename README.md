@@ -46,8 +46,8 @@ sh shell_files/train/benchmark/train_attention_mutli_view_image_three.sh
 ├── train              # Train the model
 └── test               # Verify the model
 ```
-```
-@article{dongyyyyy2024psgfree,
+```text
+@article{,
   title={PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification},
   author={Your Name and Co-authors},
   journal={},
