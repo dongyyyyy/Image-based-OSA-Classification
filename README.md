@@ -22,8 +22,6 @@ This repository provides the code for a two-step training strategy and an attent
 git clone https://github.com/dongyyyyy/Image-based-OSA-Classification.git
 cd Image-based-OSA-Classification
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ```bash
