@@ -30,10 +30,10 @@ pip install -r requirements.txt
 # Run single-view training 
 sh shell_files/train/benchmark/train_single_view_image.sh
 ```
-## If you want to change the model architecture and hyper-parameters, please change the shell file!
+* If you want to change the model architecture and hyper-parameters, please change the shell file!
 
 ```bash
 # Run multi-view training
 sh shell_files/train/benchmark/train_attention_mutli_view_image_three.sh
 ```
-## In the shell file, you have to insert "model weight path" to load pretrained model weight parameter that is trained using `single-view' image.
+* In the shell file, you have to insert "model weight path" to load pretrained model weight parameter that is trained using 'single-view' image.
