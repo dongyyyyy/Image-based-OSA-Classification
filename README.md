@@ -49,7 +49,7 @@ sh shell_files/train/benchmark/train_attention_mutli_view_image_three.sh
 ```text
 @article{,
   title={PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification},
-  author={Your Name and Co-authors},
+  author={Dongyoung Kim, Yunhee Woo, Jihoon Park, Jaemin Jeong, Seunghun Oh, Youngwoong Ko, Il-Hwan Lee, Dong-Kyu Kim and Jeong-Gun Lee},
   journal={},
   year={}
 }
