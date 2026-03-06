@@ -47,7 +47,7 @@ sh shell_files/train/benchmark/train_attention_mutli_view_image_three.sh
 └── test               # Verify the model
 ```
 ```text
-@article{,
+@article{
   title={PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification},
   author={Dongyoung Kim, Yunhee Woo, Jihoon Park, Jaemin Jeong, Seunghun Oh, Youngwoong Ko, Il-Hwan Lee, Dong-Kyu Kim and Jeong-Gun Lee},
   journal={Expert Systems with Applications},
