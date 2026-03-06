@@ -1,7 +1,7 @@
 # PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification
 
 This is the official implementation of the paper:  
-\href{https://www.sciencedirect.com/science/article/pii/S0957417426007761?casa_token=c2hU1h2DF98AAAAA:_VfPvhm52GI6vEKGfmlgpvLvccIVirjrxiOe41ZAc1L3vj4ZdyJ4LwUDCEzG82hn53utki9K}{**"PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification"**}Submitted to *Expert Systems with Applications (ESWA)*.
+[**"PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification"**](https://www.sciencedirect.com/science/article/pii/S0957417426007761?casa_token=c2hU1h2DF98AAAAA:_VfPvhm52GI6vEKGfmlgpvLvccIVirjrxiOe41ZAc1L3vj4ZdyJ4LwUDCEzG82hn53utki9K)Submitted to *Expert Systems with Applications (ESWA)*.
 
 ---
 
