@@ -1,7 +1,7 @@
 # PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification
 
 This is the official implementation of the paper:  
-**"PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification"** Submitted to *Expert Systems with Applications (ESWA)*.
+\href{https://www.sciencedirect.com/science/article/pii/S0957417426007761?casa_token=c2hU1h2DF98AAAAA:_VfPvhm52GI6vEKGfmlgpvLvccIVirjrxiOe41ZAc1L3vj4ZdyJ4LwUDCEzG82hn53utki9K}{**"PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification"**}Submitted to *Expert Systems with Applications (ESWA)*.
 
 ---
 
@@ -50,7 +50,7 @@ sh shell_files/train/benchmark/train_attention_mutli_view_image_three.sh
 @article{,
   title={PSG-Free Multi-View Facial Imaging and Attention-Based Fusion for OSA Severity Classification},
   author={Dongyoung Kim, Yunhee Woo, Jihoon Park, Jaemin Jeong, Seunghun Oh, Youngwoong Ko, Il-Hwan Lee, Dong-Kyu Kim and Jeong-Gun Lee},
-  journal={},
-  year={}
+  journal={Expert Systems with Applications},
+  year={2026.03.01}
 }
 ```
